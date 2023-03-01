@@ -1,0 +1,5 @@
+task.txt
+env/
+clientproject/.env
+clientproject/__pycache__
+app/__pycache__
